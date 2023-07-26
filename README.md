@@ -1,4 +1,4 @@
-# Chemist-Point-Of-Sale-Terminal#
+# Chemist-Point-Of-Sale-Terminal
 # Dawa Inventory Management System
 
 The "Dawa Inventory Management System" is a C++ program designed to manage and organize medical inventory. It allows users to interact with the inventory as either an Admin or a Client. The Admin can perform various actions such as adding, updating, and removing products from the inventory, while the Client can view the available products, add them to their shopping cart, view the cart, and proceed with the checkout.
